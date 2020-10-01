@@ -3,5 +3,6 @@
 
 Demo af github for programmeringshold
 
-- [min forside](forside/index.html)
-- [min opskrift side](opskrifter/kage.html)
+- [min forside](website/forside/index.html)
+- [min opskrift side](website/opskrifter/kage.html)
+- [Stickman](stickman/)
