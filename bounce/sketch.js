@@ -1,6 +1,5 @@
 let cx = 50;
 
-
 function setup() {
   createCanvas(600, 600);
 }
@@ -22,7 +21,5 @@ function draw() {
 
   // TODO  make it bounce
 
-
   circle(width, height, 200);
-
 }
