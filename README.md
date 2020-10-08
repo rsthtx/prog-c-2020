@@ -1,6 +1,5 @@
 # prog-c-2020
 
-
 Demo af github for programmeringshold
 
 - [min forside](website/)
@@ -9,10 +8,6 @@ Demo af github for programmeringshold
 
 ## Deltagere
 
-https://github.com/rsthtx/
-
-- [Name - USER_NAME](http://USER_NAME.github.io/) 
-    ([source](https://github.com/USER_NAME/USER_NAME.github.io))
 - [Emil M - kneebender](http://kneebender.github.io/) 
     ([source](https://github.com/kneebender/kneebender.github.io))
 - [Emil N - emil648j](http://emil648j.github.io/) 
