@@ -19,7 +19,8 @@ Demo af github for programmeringshold
 - [Magnus - magn7340](http://magn7340.github.io/) ([source](https://github.com/magn7340/magn7340.github.io))
 - [Rune - runeschack](http://runeschack.github.io/) ([source](https://github.com/runeschack/runeschack.github.io))
 - [Tobias - 2508tobias](http://2508tobias.github.io/) ([source](https://github.com/2508tobias/2508tobias.github.io))
+- [Jonas - jonasx99](http://jonasx99.github.io/) ([source](https://github.com/jonasx99/jonasx99.github.io))
 
-## mangler
+## Mangler
 - Simon
 - Paw
