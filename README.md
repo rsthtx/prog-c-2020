@@ -22,6 +22,7 @@ Demo af github for programmeringshold
 - [Rune - runeschack](http://runeschack.github.io/) ([source](https://github.com/runeschack/runeschack.github.io))
 - [Tobias - 2508tobias](http://2508tobias.github.io/) ([source](https://github.com/2508tobias/2508tobias.github.io))
 - [Jonas - jonasx99](http://jonasx99.github.io/) ([source](https://github.com/jonasx99/jonasx99.github.io))
+- [Jeppe - jeppe-svanborg](http://jeppe-svanborg.github.io/) ([source](https://github.com/jeppe-svanborg/jeppe-svanborg.github.io))
 
 ## Mangler
 - Simon
