@@ -5,6 +5,8 @@ Demo af github for programmeringshold
 - [min forside](website/)
 - [Stickman](stickman/)
 - [Another Stickman](stickman-2/)
+- [Løkker](loops/)
+- [Bounce](bounce/)
 
 ## Deltagere
 
