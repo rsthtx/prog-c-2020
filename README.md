@@ -1,4 +1,4 @@
-# prog-c-2020
+# Prog-C 2020-2021
 
 Demo af github for programmeringshold
 
