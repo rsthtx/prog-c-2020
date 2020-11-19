@@ -22,8 +22,6 @@ Demo af github for programmeringshold
 - [Kasper - kas411per](http://kas411per.github.io/) ([source](https://github.com/kas411per/kas411per.github.io))
 - [Magnus - magn7340](http://magn7340.github.io/) ([source](https://github.com/magn7340/magn7340.github.io))
 <!-- - [Rune - runeschack](http://runeschack.github.io/) ([source](https://github.com/runeschack/runeschack.github.io)) -->
+- [Paw - Paw2110](http://Paw2110.github.io/) ([source](https://github.com/Paw2110/Paw2110.github.io))
+- [Simon - sgalsgaard](http://sgalsgaard.github.io/) ([source](https://github.com/sgalsgaard/sgalsgaard.github.io))
 - [Tobias - 2508tobias](http://2508tobias.github.io/) ([source](https://github.com/2508tobias/2508tobias.github.io))
-
-## Mangler
-- Simon
-- Paw
