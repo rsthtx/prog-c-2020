@@ -23,10 +23,11 @@ class Ball {
   constructor(x, y) {
     this.x = x;
     this.y = y;
-    this.r = random(5, 50)
+    this.r = random(5, 100)
 
-    this.speedX = random(-10, 10)
-    this.speedY = random(-10, 10)
+    const sMax = 20
+    this.speedX = random(-sMax, sMax)
+    this.speedY = random(-sMax, sMax)
   }
 
   update() {
