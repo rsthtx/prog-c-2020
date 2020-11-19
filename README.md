@@ -7,6 +7,7 @@ Demo af github for programmeringshold
 - [Another Stickman](stickman-2/)
 - [Løkker](loops/)
 - [Bounce](bounce/)
+- [OOP Bounce](object-oriented-balls/)
 
 ## Deltagere
 
