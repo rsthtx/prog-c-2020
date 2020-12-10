@@ -28,7 +28,7 @@ def problemOne():
             y = a+b
             if y == 2020:
                 print(a,b,y, a*b)
-                return
+                return a*b
 
 def problemTwo():
     pass
@@ -36,5 +36,6 @@ def problemTwo():
 
 
 load_data("day1-input.txt")
-problemOne()
+res = problemOne()
+print(res)
 # problemTwo()
