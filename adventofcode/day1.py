@@ -19,13 +19,22 @@ def load_data(fileName):
 
 def problemOne():
     global lines
-    print(lines)
+    # print(lines)
+
+    for aStr in lines:
+        for bStr in lines:
+            a = int(aStr)
+            b = int(bStr)
+            y = a+b
+            if y == 2020:
+                print(a,b,y, a*b)
+                return
 
 def problemTwo():
     pass
 
 
 
-# load_data("day1-input.txt")
+load_data("day1-input.txt")
 problemOne()
 # problemTwo()
