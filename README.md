@@ -8,6 +8,7 @@ Demo af github for programmeringshold
 - [Løkker](loops/)
 - [Bounce](bounce/)
 - [OOP Bounce](object-oriented-balls/)
+- [Advent of Code](adventofcode/) - introduktion
 
 ## Deltagere
 
